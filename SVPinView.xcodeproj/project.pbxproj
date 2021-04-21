@@ -13,8 +13,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		ACC5DBFF20469FEB00FA8CD7 /* SVPinView.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SVPinView.gif; sourceTree = "<group>"; };
-		ACC5DC032046A2A400FA8CD7 /* IBInspectables.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IBInspectables.png; sourceTree = "<group>"; };
 		ACE199BE204556340041203C /* SVPinView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SVPinView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACE199C1204556340041203C /* SVPinView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVPinView.h; sourceTree = "<group>"; };
 		ACE199C2204556340041203C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -53,22 +51,6 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		ACC5DBFD20469FC100FA8CD7 /* Screenshots */ = {
-			isa = PBXGroup;
-			children = (
-				ACC5DBFF20469FEB00FA8CD7 /* SVPinView.gif */,
-				ACC5DC032046A2A400FA8CD7 /* IBInspectables.png */,
-			);
-			path = Screenshots;
-			sourceTree = "<group>";
-		};
-		ACC5DBFE20469FCA00FA8CD7 /* Example */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Example;
-			sourceTree = "<group>";
-		};
 		ACE199B4204556340041203C = {
 			isa = PBXGroup;
 			children = (
@@ -88,8 +70,6 @@
 		ACE199C0204556340041203C /* SVPinView */ = {
 			isa = PBXGroup;
 			children = (
-				ACC5DBFE20469FCA00FA8CD7 /* Example */,
-				ACC5DBFD20469FC100FA8CD7 /* Screenshots */,
 				ACC5DBE4204689E000FA8CD7 /* Source */,
 				ACC5DBE520468A2000FA8CD7 /* Resources */,
 			);
